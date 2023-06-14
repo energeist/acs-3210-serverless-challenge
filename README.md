@@ -13,6 +13,6 @@ Deployed serveless application can be found here: [https://jg5g34kdo2.execute-ap
 - `GET /pokemon/<pokemonName>` - Private - Shows the nickname and type for a pokemon with the provided `pokemonName`
 
 - `POST /users`
-- - Request body takes a JSON object with `name` and `userId` attributes
+  - Request body takes a JSON object with `name` and `userId` attributes
 - `POST /pokemon`
-- - Request body takes a JSON object with `pokemonName` and `pokemonType` attributes
+  - Request body takes a JSON object with `pokemonName` and `pokemonType` attributes
