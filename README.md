@@ -6,7 +6,7 @@ Deployed serveless application can be found here: [https://jg5g34kdo2.execute-ap
 
 ### Available routes
 
-*`GET` requests must be sent with NO BODY*
+*`GET` requests must be sent with **NO BODY***
 - `GET /` - Public - Landing page for the API
 - `GET /roll` - Public - Roll a twenty-sided die
 - `GET /users/<userId>` - Private - Shows the id and name for a user with the provided `userId`
